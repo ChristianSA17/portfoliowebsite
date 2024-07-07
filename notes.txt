@@ -1,0 +1,20 @@
+Christian Jericho - font-family:Oswald; font-size:40px; color: Light Gray #d9d9d9
+About me - font-family:Oswald; font-size:35px; color: Light Gray #d9d9d9
+Contacts - font-family:Oswald; font-size:35px; color: Light Gray #d9d9d9
+
+Icons - color:Dark Gray #545454
+
+Christian Jericho M. San Agustin - font-family:Oswald; font-size:65px; color: Dark Gray #545454
+BS COMPUTER SCIENCE STUDENT - font-family:Montserrat Classic; font-size:35px; color: Gray #a6a6a6
+
+
+Socials:
+Facebook - https://www.facebook.com/ChristianSA17
+Twitter - https://twitter.com/Christian_SA17
+Instagram - https://www.instagram.com/christiansa17/
+Github - https://github.com/ChristianSA17
+Linkedin - https://www.linkedin.com/in/christian-jericho-san-agustin-a49614255/
+
+Emails:
+Personal Email - cjsanagustin172003@gmail.com
+Student Email - sc.christianjericho.sanagustin@cvsu.edu.ph

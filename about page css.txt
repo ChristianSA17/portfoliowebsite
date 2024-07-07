@@ -1,0 +1,39 @@
+.abt{
+	margin-right:90px;
+	position:absolute;
+	top:750px; 	
+}
+.abttxt {
+	font-size:38px;
+	font-weight: 700;
+}
+.abtp {
+	color:dimgrey;
+	font-size:26px;
+}
+.logos {
+	margin-right: 90px;
+	text-align:center;
+}
+.web{
+	height:150px;
+	weight:150px;
+}
+.android{
+	height:150px;
+	weight:150px;
+}
+.game{
+	height:150px;
+	weight:150px;
+}
+
+<div class="abt">
+<h1 class="abttxt"> ABOUT ME </h1>
+	<p class="abtp"> Hi! My name is Christian Jericho Masangkay San Agustin. I am a 19-year-old undergraduate student studying Bachelor of Science in Computer Science at Cavite State University - Silang Campus who is interested in android, web, and game development. I want to build applications and websites for different companies and businesses  that are stable. I also want to be a part of a team or company that creates a game that gamers will enjoy. </p>
+	<div class="logos">
+		<img src="webdev.png" alt="Web Dev Logo"  class="web"/>
+		<img src="androiddev.png" alt="Android Dev Logo"  class="android"/>
+		<img src="gamedev.png" alt="Playstation Logo"  class="game"/>
+	</div>
+</div>
